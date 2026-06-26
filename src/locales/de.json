@@ -1,0 +1,262 @@
+{
+  "nav": {
+    "siteName": "La Ruta de la Lana",
+    "destino": "Reiseziel",
+    "experiencias": "Erlebnisse",
+    "contacto": "Kontakt",
+    "ariaLabel": "Hauptnavigation",
+    "menuOpen": "Menü öffnen",
+    "menuClose": "Menü schließen",
+    "languageSelector": "Sprache"
+  },
+  "layout": {
+    "skipToContent": "Zum Hauptinhalt springen"
+  },
+  "hero": {
+    "siteName": "LA RUTA DE LA LANA",
+    "title": "Entdecken Sie Marulanda: wo der Nebelwald den Himmel berührt",
+    "subtitle": "Drei Stunden von Manizales entfernt, im Herzen von Caldas, gibt es ein Dorf, in dem Wolken auf den Dächern schlafen, Wachspalmen 60 Meter hoch sind und Wolle noch von Hand gesponnen wird. Das ist kein Tourismus. Es ist ein Zuhausekommen.",
+    "cta": "Ich möchte das Abenteuer erleben",
+    "whatsapp": "Schreiben Sie mir auf WhatsApp",
+    "scrollLabel": "Zur Rubrik Reiseziel"
+  },
+  "destino": {
+    "tag": "— Marulanda, Caldas —",
+    "title": "Es ist kein Reiseziel. Es ist ein Rhythmus.",
+    "p1": "In den Bergen von Caldas, auf 3.200 Metern über dem Meeresspiegel, trotzt Marulanda der Hektik des 21. Jahrhunderts. Es ist ein Dorf, in dem die Zeit in Wollsträhnen gemessen wird und die einzige Uhr, die zählt, die Sonne ist, die sich hinter den Wachspalmen versteckt.",
+    "p2": "Es gibt keine Ampeln, aber einen Himmel, der jede Stunde seine Farbe wechselt. Die Kopfsteinpflasterstraßen steigen und fallen zwischen Lehmhäusern mit geschnitzten Holzüberdachungen. Die Alten sitzen auf dem Platz und sehen dem Nachmittag zu, und die Geräuschkulisse ist eine Mischung aus Wind, Vögeln und Webstühlen.",
+    "p3": "Marulanda wird nicht besucht: es wird erlebt. Und von La Ruta de la Lana aus laden wir Sie ein, es mit allen fünf Sinnen zu erleben.",
+    "imgAlt": "Marulanda, Caldas"
+  },
+  "experiencias": {
+    "heading": "Erlebnisse, die unter die Haut gehen",
+    "subtitle": "Jedes Erlebnis ist so gestaltet, dass Sie mit mehr abreisen, als Sie mitgebracht haben.",
+    "cta": "Ich möchte dieses Erlebnis buchen",
+    "verMas": "Mehr anzeigen"
+  },
+  "whyUs": {
+    "heading": "Wir sind kein Reisebüro. Wir sind Nachbarn.",
+    "body": "La Ruta de la Lana wurde in Marulanda geboren, von Menschen, die dieses Land lieben. Wir arbeiten nicht von einem Büro in Bogotá aus: wir leben hier, wir kennen jeden Pfad, jede Weberfamilie und jeden Sonnenaufgang im Páramo. Wenn Sie mit uns reisen, reisen Sie mit jemandem, der Ihnen die Tür zu seinem Zuhause öffnet.",
+    "cards": [
+      { "title": "Zertifizierte lokale Guides", "description": "Niemand kennt das Gelände so gut wie jemand, der es seit seiner Kindheit durchwandert." },
+      { "title": "Kleine Gruppen", "description": "Maximal 8 Personen. Das ist kein Touristenbus." },
+      { "title": "Regenerativer Tourismus", "description": "Jeder Besuch hinterlässt einen direkten Beitrag für die Gemeinschaft und das Ökosystem." },
+      { "title": "Maßgeschneiderte Reisepläne", "description": "Wir gestalten Ihr Erlebnis nach Ihrem Zeitplan, Ihrer Fitness und Ihrer Entdeckerlust." }
+    ]
+  },
+  "testimonials": {
+    "heading": "Was andere sagen, die schon da waren",
+    "prev": "Vorheriges Zeugnis",
+    "next": "Nächstes Zeugnis",
+    "goTo": "Gehe zu Zeugnis {{n}}"
+  },
+  "ctaSection": {
+    "tag": "— Ihre Geschichte beginnt hier —",
+    "title": "Marulanda erwartet Sie",
+    "body": "Jede Reise mit uns unterstützt direkt Bauernfamilien, schützt den Nebelwald und hält die Textiltradition der Region lebendig. Das ist nicht irgendein Tourismus: es ist Tourismus, der Spuren hinterlässt.",
+    "cta": "Ich möchte dieses Erlebnis buchen"
+  },
+  "contact": {
+    "backToHome": "Zurück zur Startseite",
+    "tag": "— Kontaktieren Sie uns —",
+    "title": "Bereit, Ihre eigene Geschichte in Marulanda zu weben?",
+    "subtitle": "Hinterlassen Sie uns Ihre Daten und wir erstellen Ihnen ein maßgeschneidertes Angebot, unverbindlich.",
+    "form": {
+      "name": "Vollständiger Name",
+      "namePlaceholder": "Ihr Name",
+      "email": "E-Mail-Adresse",
+      "emailPlaceholder": "sie@email.com",
+      "phone": "WhatsApp / Telefon",
+      "phonePlaceholder": "+57 300 000 0000",
+      "interests": "Welche Erlebnisse interessieren Sie?",
+      "travelDate": "Voraussichtliches Reisedatum",
+      "groupSize": "Anzahl der Personen",
+      "groupSizePlaceholder": "Auswählen...",
+      "message": "Nachricht oder Anfrage",
+      "messagePlaceholder": "Erzählen Sie uns, was Sie im Kopf haben, Fragen, Daten...",
+      "charactersRemaining": "{{count}} Zeichen",
+      "privacy": "Ich akzeptiere die ",
+      "privacyLinkText": "Datenschutzerklärung",
+      "privacySuffix": " und die Verarbeitung meiner personenbezogenen Daten.",
+      "submit": "Anfrage senden",
+      "sending": "Wird gesendet...",
+      "success": "Vielen Dank für Ihre Nachricht!",
+      "successMsg": "Ihre Anfrage ist bei uns eingegangen. Wir kontaktieren Sie innerhalb von 24 Stunden per WhatsApp.",
+      "errorTitle": "Etwas ist schiefgelaufen.",
+      "errorMsg": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Versuchen Sie es erneut oder schreiben Sie uns direkt auf WhatsApp.",
+      "validation": {
+        "nameMin": "Der Name muss mindestens 3 Zeichen lang sein",
+        "nameMax": "Der Name ist zu lang",
+        "emailInvalid": "Geben Sie eine gültige E-Mail-Adresse ein",
+        "phoneInvalid": "Geben Sie eine gültige WhatsApp-Nummer ein",
+        "interestsMin": "Wählen Sie mindestens ein Erlebnis aus",
+        "groupSizeRequired": "Wählen Sie die Anzahl der Personen",
+        "messageMax": "Die Nachricht darf 1000 Zeichen nicht überschreiten",
+        "privacyRequired": "Sie müssen die Datenschutzerklärung akzeptieren"
+      },
+      "interestsOptions": [
+        { "value": "bosques-niebla", "label": "Nebelwälder" },
+        { "value": "palma-cera", "label": "Wachspalmen" },
+        { "value": "ovinocultura", "label": "Schafzucht & Wolle" },
+        { "value": "paquete-completo", "label": "Komplettpaket" }
+      ],
+      "groupSizeOptions": [
+        { "value": "", "label": "Auswählen..." },
+        { "value": "1-2", "label": "1-2 Personen" },
+        { "value": "3-5", "label": "3-5 Personen" },
+        { "value": "6-8", "label": "6-8 Personen" }
+      ]
+    },
+    "sidePanel": {
+      "title": "Lieber direkt sprechen?",
+      "body": "Schreiben Sie uns auf WhatsApp und wir koordinieren Ihr Abenteuer direkt.",
+      "cta": "WhatsApp-Chat öffnen"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Spazieren Sie zwischen den Wolken",
+      "subtitle": "Nebelwälder, Artenvielfalt und absolute Stille",
+      "duration": "4 bis 8 Stunden (je nach Route)",
+      "difficulty": "Mäßig",
+      "description": "Tauchen Sie ein in eines der magischsten Ökosysteme der Erde. Die Nebelwälder Marulandas sind Reservoire der Biodiversität: wilde Orchideen, riesige Bromelien, endemische Vögel und eine Stille, die nur der Wind in den Baumkronen durchbricht. Geführte Wanderungen für jedes Niveau, von kontemplativen Naturspaziergängen bis zu Hochgebirgstrekking.",
+      "longDescription": "Der Nebelwald von Marulanda ist eines der faszinierendsten und fragilsten Ökosysteme der kolumbianischen Zentralkordillere. Auf über 2.800 Metern Höhe hüllt Nebel jeden Baum und jeden Pfad ein und schafft eine Märchenlandschaft, in der Licht durch jahrhundertealte Moose filtert. Hier leben Vogelarten, die es nirgendwo sonst auf der Erde gibt, Miniaturorchideen, die auf flechtenbedeckten Baumstämmen sprießen, und eine so tiefe Ruhe, dass Sie sich vollständig vom Lärm der Welt lösen. Diese Erfahrung wird von lokalen Kennern geführt, die in diesen Bergen aufgewachsen sind und jedes Geräusch, jede Spur und jede Windänderung lesen können.",
+      "includes": [
+        "Lokaler Biodiversitätsexperte als Guide",
+        "Bäuerlicher Snack (Arepa, Käse, Panela)",
+        "Hin- und Rücktransport von/nach Marulanda",
+        "Reiseversicherung"
+      ],
+      "itinerary": [
+        "Abfahrt vom Dorf Marulanda um 8:00 Uhr",
+        "Fahrt im 4x4-Fahrzeug zum Startpunkt des Weges",
+        "Geführte 2-4-stündige Wanderung durch den Nebelwald",
+        "Vogelbeobachtung und Erkundung der einheimischen Flora",
+        "Bäuerliches Mittagessen auf einem traditionellen Bauernhof",
+        "Rückkehr nach Marulanda bei Sonnenuntergang"
+      ],
+      "whatToBring": [
+        "Gummistiefel oder wasserdichtes Schuhwerk",
+        "Regenjacke oder Poncho",
+        "Wasser (mindestens 1,5 Liter)",
+        "Biologisch abbaubares Insektenschutzmittel",
+        "Fernglas (optional, zur Vogelbeobachtung)",
+        "Kamera"
+      ],
+      "tips": "Die besten Monate für einen Besuch des Nebelwaldes sind Dezember bis März und Juli bis August, wenn die Regenzeit nachlässt und die Sicht am besten ist."
+    },
+    {
+      "title": "Stehen Sie vor der höchsten Palme der Welt",
+      "subtitle": "Naturschutzgebiet der Quindío-Wachspalme",
+      "duration": "6 bis 10 Stunden (ganztägig)",
+      "difficulty": "Anspruchsvoll",
+      "description": "Die Quindío-Wachspalme – Kolumbiens Nationalbaum – findet in Marulanda eines ihrer imposantesten Schutzgebiete. Durchstreifen Sie ganze Täler, in denen diese Giganten über 60 Meter aufragen, begleitet von Frailejones und einem Horizont, der Ihnen den Atem raubt.",
+      "longDescription": "Das Wachspalmen-Schutzgebiet in den Bergen von Marulanda ist eines der am besten gehüteten Geheimnisse der kolumbianischen Kaffeezone. Anders als in den touristischen Tälern erheben sich die Palmen hier einsam zwischen Weiden und Hängen und schaffen eine Landschaft, die einem romantischen Gemälde des 19. Jahrhunderts entsprungen zu sein scheint. Jede Palme kann bis zu 200 Jahre alt werden und 70 Meter Höhe erreichen, was sie zur höchsten Palme der Welt macht. Zwischen ihnen zu wandern ist eine demütigende Erfahrung: man fühlt sich winzig neben diesen Alten, die die Geschichte vorbeiziehen sahen. Die Wanderung durchquert Páramo-Zonen mit Frailejones, Aussichtspunkte, die das ganze Tal überblicken, und Bauernhöfe, auf denen die Erde noch wie vor hundert Jahren bearbeitet wird.",
+      "includes": [
+        "Lokaler Guide mit Kenntnissen des Palmenökosystems",
+        "Vollständiges bäuerliches Mittagessen",
+        "Hin- und Rücktransport im 4x4",
+        "Zwischenmahlzeit",
+        "Reiseversicherung"
+      ],
+      "itinerary": [
+        "Abfahrt von Marulanda um 7:00 Uhr im 4x4-Fahrzeug",
+        "Aufstieg zum Palmenbeobachtungsgebiet",
+        "3-4-stündige interpretative Wanderung zwischen jahrhundertealten Palmen",
+        "Besuch panoramischer Aussichtspunkte über das Tal",
+        "Mittagessen auf einem traditionellen Bauernhof mit lokalen Produkten",
+        "Wanderung durch Frailejón- und Páramo-Zonen",
+        "Rückkehr nach Marulanda gegen 17:00 Uhr"
+      ],
+      "whatToBring": [
+        "Trekking-Schuhe mit gutem Halt",
+        "Sonnencreme (die Höhe brennt)",
+        "Hut oder Kappe",
+        "Wasser (mindestens 2 Liter)",
+        "Windjacke",
+        "Wanderstöcke (empfohlen)"
+      ],
+      "tips": "Die Höhe kann manche Menschen beeinträchtigen – nehmen Sie den ersten Tag ruhig, trinken Sie ausreichend und vermeiden Sie Alkohol am Vorabend."
+    },
+    {
+      "title": "Vom Schaf zum Webstuhl: Jahrhunderte der Textiltradition",
+      "subtitle": "Scheren, Spinnen, Färben und handwerkliches Weben",
+      "duration": "2 Tage (Gesamterlebnis)",
+      "difficulty": "Leicht",
+      "description": "Marulanda ist seit seiner Gründung Wollland. Besuchen Sie Schaffarmen und lernen Sie den gesamten Prozess kennen: handwerkliches Scheren, Spinnen am Spinnrad, Färben mit natürlichen Pigmenten und Weben am vertikalen Webstuhl. Praktische Workshops, in denen Sie Ihr eigenes Stück herstellen.",
+      "longDescription": "Die Textiltradition Marulandas reicht über zwei Jahrhunderte zurück. In diesen kalten Bergen war Wolle immer Wärme und Lebensgrundlage: Die Familien hielten Schafe, scherten von Hand, spannen am Spinnrad und webten an vertikalen Webstühlen die Ruanas, Decken und Ponchos, die die Arrieros noch heute tragen. Dieses Erlebnis taucht Sie in diesen vollständigen Kreislauf ein. Sie beginnen auf dem Bauernhof, lernen die Schafe kennen und sehen eine Vorführung des handwerklichen Scherens mit Scheren – genau wie es die Großeltern machten. Dann geht es in die Werkstatt, wo Sie lernen, die Wolle zu waschen, zu karden, am Spinnrad zu spinnen und mit Pflanzen und Mineralien aus der Region zu färben. Am zweiten Tag sitzen Sie an einem jahrhundertealten vertikalen Webstuhl und weben Ihr eigenes Stück unter der Anleitung einer Meisterhandwerkerin, die das Handwerk von ihrer Mutter und Großmutter geerbt hat.",
+      "includes": [
+        "Fachkundige Handwerkerin als Guide für Textiltradition",
+        "Komplette Materialien (Wolle, Spinnrad, Webstuhl, Naturfarben)",
+        "Typisches Mittagessen an beiden Tagen",
+        "Von Ihnen gewebtes Stück zum Mitnehmen",
+        "Unterkunft auf traditionellem Bauernhof (1 Nacht)",
+        "Reiseversicherung"
+      ],
+      "itinerary": [
+        "Tag 1, morgens: Ankunft auf dem Bauernhof und Begrüßung mit einem heißen Getränk",
+        "Tag 1, morgens: Besuch des Schafstalls, Vorführung des handwerklichen Scherens",
+        "Tag 1, nachmittags: Workshop zum Waschen, Kardieren und Spinnen am Spinnrad",
+        "Tag 1, nachmittags: Färbeworkshop mit natürlichen Pigmenten (Pflanzen, Erde, Rinde)",
+        "Tag 1, abends: Abendessen und Lagerfeuer mit Geschichten von Arrieros und Weberinnen",
+        "Tag 2, morgens: Frühstück und Einführung in den vertikalen Webstuhl",
+        "Tag 2, morgens und nachmittags: Geführtes Weben zur Herstellung Ihres eigenen Stücks",
+        "Tag 2, nachmittags: Übergabe der Stücke und Abschluss des Erlebnisses"
+      ],
+      "whatToBring": [
+        "Warme Kleidung (die Nächte sind kalt)",
+        "Schürze oder Kleidung, die schmutzig werden darf",
+        "Notizbuch zum Aufschreiben der Farbrezepte",
+        "Bequeme Schuhe für den Bauernhof",
+        "Handtuch und Toilettenartikel"
+      ],
+      "tips": "Keine Vorkenntnisse im Weben erforderlich. Die Meisterhandwerkerinnen führen Sie Schritt für Schritt mit unendlicher Geduld. Sie werden mit etwas abreisen, das Sie mit Ihren eigenen Händen geschaffen haben, unabhängig von Ihrem Können."
+    }
+  ],
+  "testimonialsData": [
+    {
+      "quote": "Ich dachte, die Fotos der Wachspalmen wären übertrieben. Sind sie nicht. Es ist ein anderer Planet. Und die Leute von La Ruta de la Lana geben Ihnen von der ersten Minute an das Gefühl, zu Hause zu sein.",
+      "author": "María Fernanda G.",
+      "location": "Bogotá"
+    },
+    {
+      "quote": "Ich habe den Wollworkshop mit meiner Tochter gemacht. Wir konnten beide am Ende spinnen. Wann passiert das schon auf einer Reise?",
+      "author": "Carlos M.",
+      "location": "Medellín"
+    },
+    {
+      "quote": "Ich bin Naturfotograf und Marulanda hat mir die Sprache verschlagen. Die Guides wissen genau, wo und wann das beste Licht einfällt.",
+      "author": "James L.",
+      "location": "London, UK"
+    }
+  ],
+  "experiencePage": {
+    "backToExperiencias": "Zurück zur Startseite",
+    "duration": "Dauer",
+    "difficulty": "Schwierigkeitsgrad",
+    "includes": "Was ist inbegriffen?",
+    "itinerary": "Reiseverlauf",
+    "whatToBring": "Was mitbringen?",
+    "tip": "Tipp",
+    "ctaTitle": "Bereit, es zu erleben?",
+    "ctaBody": "Schreiben Sie uns, um Ihren Platz zu buchen oder weitere Informationen zu erhalten. Unverbindlich.",
+    "ctaButton": "Ich möchte dieses Erlebnis buchen",
+    "notFound": "Erlebnis nicht gefunden",
+    "notFoundMsg": "Das gesuchte Erlebnis existiert nicht oder wurde verschoben. Gehen Sie zurück zur Startseite, um unsere Erlebnisse zu entdecken.",
+    "404back": "Zurück zur Startseite"
+  },
+  "footer": {
+    "description": "Regenerativer Tourismus im Herzen von Caldas. Wir verbinden Reisende mit dem Wesen Marulandas: seinen Wäldern, seiner Wolle und seinen Menschen.",
+    "contact": "Kontakt",
+    "legal": "Rechtliches",
+    "privacy": "Datenschutzerklärung",
+    "terms": "AGB",
+    "copyright": "Regenerativer Tourismus im Herzen von Caldas"
+  },
+  "whatsappButton": {
+    "ariaLabel": "Auf WhatsApp chatten"
+  },
+  "scrollToTop": {
+    "ariaLabel": "Nach oben"
+  }
+}

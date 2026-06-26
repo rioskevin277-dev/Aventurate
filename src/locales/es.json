@@ -1,0 +1,262 @@
+{
+  "nav": {
+    "siteName": "La Ruta de la Lana",
+    "destino": "Destino",
+    "experiencias": "Experiencias",
+    "contacto": "Contacto",
+    "ariaLabel": "Navegación principal",
+    "menuOpen": "Abrir menú",
+    "menuClose": "Cerrar menú",
+    "languageSelector": "Idioma"
+  },
+  "layout": {
+    "skipToContent": "Saltar al contenido principal"
+  },
+  "hero": {
+    "siteName": "LA RUTA DE LA LANA",
+    "title": "Descubre Marulanda: donde el bosque de niebla toca el cielo",
+    "subtitle": "A tres horas de Manizales, en el corazón de Caldas, existe un pueblo donde las nubes duermen sobre los techos, las palmas de cera miden 60 metros y la lana todavía se hila a mano. Esto no es turismo. Es volver a casa.",
+    "cta": "Quiero vivir la aventura",
+    "whatsapp": "Háblame por WhatsApp",
+    "scrollLabel": "Ir a la sección Destino"
+  },
+  "destino": {
+    "tag": "— Marulanda, Caldas —",
+    "title": "No es un destino. Es un ritmo.",
+    "p1": "En las montañas de Caldas, a 3.200 metros sobre el nivel del mar, Marulanda desafía la prisa del siglo XXI. Es un pueblo donde el tiempo se mide en madejas de lana y el único reloj que importa es el sol que se esconde detrás de las palmas de cera.",
+    "p2": "Aquí no hay semáforos, pero sí un cielo que cambia de color cada hora. Las calles empedradas suben y bajan entre casas de bahareque con aleros de madera tallada. Los viejos se sientan en la plaza a ver pasar la tarde, y el sonido ambiente es una mezcla de viento, pájaros y telares.",
+    "p3": "Marulanda no se visita: se habita. Y desde La Ruta de la Lana, te invitamos a habitarlo con los cinco sentidos abiertos.",
+    "imgAlt": "Marulanda, Caldas"
+  },
+  "experiencias": {
+    "heading": "Experiencias que se quedan en la piel",
+    "subtitle": "Cada experiencia está diseñada para que te vayas con más de lo que trajiste.",
+    "cta": "Quiero vivir esta experiencia",
+    "verMas": "Ver más"
+  },
+  "whyUs": {
+    "heading": "No somos una agencia de turismo. Somos vecinos.",
+    "body": "La Ruta de la Lana nació en Marulanda, de gente que ama este territorio. No operamos desde una oficina en Bogotá: vivimos acá, conocemos cada sendero, cada familia tejedora y cada amanecer en el páramo. Cuando viajas con nosotros, viajas con alguien que te abre la puerta de su casa.",
+    "cards": [
+      { "title": "Guías locales certificados", "description": "Nadie conoce el terreno como quien lo camina desde chico." },
+      { "title": "Grupos reducidos", "description": "Máximo 8 personas. Esto no es un bus de turismo." },
+      { "title": "Turismo regenerativo", "description": "Cada visita deja un aporte directo a la comunidad y al ecosistema." },
+      { "title": "Itinerarios a medida", "description": "Armamos tu experiencia según tus tiempos, tu estado físico y tus ganas de explorar." }
+    ]
+  },
+  "testimonials": {
+    "heading": "Lo que dicen quienes ya vinieron",
+    "prev": "Testimonio anterior",
+    "next": "Testimonio siguiente",
+    "goTo": "Ir al testimonio {{n}}"
+  },
+  "ctaSection": {
+    "tag": "— Tu historia empieza acá —",
+    "title": "Marulanda te está esperando",
+    "body": "Cada viaje con nosotros apoya directamente a familias campesinas, protege el bosque de niebla y mantiene viva la tradición textil de la región. Esto no es turismo cualquiera: es turismo que deja huella.",
+    "cta": "Quiero vivir esta experiencia"
+  },
+  "contact": {
+    "backToHome": "Volver al inicio",
+    "tag": "— Contáctanos —",
+    "title": "¿Listo para hilar tu propia historia en Marulanda?",
+    "subtitle": "Déjanos tus datos y te armamos una propuesta a medida, sin compromiso.",
+    "form": {
+      "name": "Nombre completo",
+      "namePlaceholder": "Tu nombre",
+      "email": "Correo electrónico",
+      "emailPlaceholder": "tu@correo.com",
+      "phone": "WhatsApp / Teléfono",
+      "phonePlaceholder": "+57 300 000 0000",
+      "interests": "¿Qué experiencias te interesan?",
+      "travelDate": "Fecha estimada de viaje",
+      "groupSize": "Número de personas",
+      "groupSizePlaceholder": "Selecciona...",
+      "message": "Mensaje o consulta",
+      "messagePlaceholder": "Cuéntanos qué tienes en mente, dudas, fechas...",
+      "charactersRemaining": "{{count}} caracteres",
+      "privacy": "Acepto la ",
+      "privacyLinkText": "política de privacidad",
+      "privacySuffix": " y el tratamiento de mis datos personales.",
+      "submit": "Enviar consulta",
+      "sending": "Enviando...",
+      "success": "¡Gracias por escribirnos!",
+      "successMsg": "Tu consulta llegó a nuestro telar. Te contactamos en menos de 24 horas por WhatsApp.",
+      "errorTitle": "Hubo un error al enviar.",
+      "errorMsg": "Hubo un error al enviar. Intenta de nuevo o escríbenos directamente por WhatsApp.",
+      "validation": {
+        "nameMin": "El nombre debe tener al menos 3 caracteres",
+        "nameMax": "El nombre es demasiado largo",
+        "emailInvalid": "Ingresa un correo electrónico válido",
+        "phoneInvalid": "Ingresa un número de WhatsApp válido",
+        "interestsMin": "Selecciona al menos una experiencia",
+        "groupSizeRequired": "Selecciona el número de personas",
+        "messageMax": "El mensaje no puede superar los 1000 caracteres",
+        "privacyRequired": "Debes aceptar la política de privacidad"
+      },
+      "interestsOptions": [
+        { "value": "bosques-niebla", "label": "Bosques de Niebla" },
+        { "value": "palma-cera", "label": "Palma de Cera" },
+        { "value": "ovinocultura", "label": "Ovinocultura y Lana" },
+        { "value": "paquete-completo", "label": "Paquete completo" }
+      ],
+      "groupSizeOptions": [
+        { "value": "", "label": "Selecciona..." },
+        { "value": "1-2", "label": "1-2 personas" },
+        { "value": "3-5", "label": "3-5 personas" },
+        { "value": "6-8", "label": "6-8 personas" }
+      ]
+    },
+    "sidePanel": {
+      "title": "¿Prefieres hablar directo?",
+      "body": "Escríbenos por WhatsApp y coordinamos tu aventura en el momento.",
+      "cta": "Abrir chat de WhatsApp"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Camina entre nubes",
+      "subtitle": "Bosques de niebla, biodiversidad y silencio absoluto",
+      "duration": "4 a 8 horas (según recorrido)",
+      "difficulty": "Moderado",
+      "description": "Adéntrate en uno de los ecosistemas más mágicos del planeta. Los bosques de niebla de Marulanda son reservorios de biodiversidad: orquídeas silvestres, bromelias gigantes, aves endémicas y un silencio que solo rompe el viento entre las copas. Caminatas guiadas para todos los niveles, desde senderismo contemplativo hasta trekking de alta montaña.",
+      "longDescription": "El bosque de niebla de Marulanda es uno de los ecosistemas más fascinantes y frágiles de la cordillera Central colombiana. A más de 2.800 metros de altura, la neblina envuelve cada árbol y cada sendero, creando un paisaje de cuento donde la luz se filtra entre musgos centenarios. Aquí habitan especies de aves que no encuentras en ningún otro lugar del planeta, orquídeas miniatura que brotan sobre troncos cubiertos de liquen, y una calma tan profunda que te desconecta del ruido del mundo por completo. Esta experiencia está guiada por conocedores locales que crecieron entre estas montañas y saben leer cada sonido, cada huella y cada cambio del viento.",
+      "includes": [
+        "Guía local experto en biodiversidad",
+        "Refrigerio campesino (arepa, queso, panela)",
+        "Transporte desde y hacia Marulanda",
+        "Seguro de asistencia"
+      ],
+      "itinerary": [
+        "Salida desde el pueblo de Marulanda a las 8:00 a.m.",
+        "Recorrido en vehículo 4x4 hasta el punto de inicio del sendero",
+        "Caminata guiada de 2 a 4 horas por el bosque de niebla",
+        "Avistamiento de aves y reconocimiento de flora nativa",
+        "Almuerzo campesino en finca tradicional",
+        "Regreso a Marulanda al atardecer"
+      ],
+      "whatToBring": [
+        "Botas de caucho o calzado impermeable",
+        "Impermeable o poncho para lluvia",
+        "Agua (mínimo 1.5 litros)",
+        "Repelente de insectos biodegradable",
+        "Binoculares (opcional, para avistamiento)",
+        "Cámara fotográfica"
+      ],
+      "tips": "Los mejores meses para visitar el bosque de niebla son diciembre a marzo y julio a agosto, cuando las lluvias dan tregua y la visibilidad es mayor."
+    },
+    {
+      "title": "Párate frente a la palma más alta del mundo",
+      "subtitle": "Santuario natural de la palma de cera del Quindío",
+      "duration": "6 a 10 horas (jornada completa)",
+      "difficulty": "Exigente",
+      "description": "La palma de cera del Quindío — árbol nacional de Colombia — encuentra en Marulanda uno de sus santuarios más imponentes. Recorre valles enteros donde estas gigantes se alzan a más de 60 metros, escoltadas por frailejones y un horizonte que corta la respiración.",
+      "longDescription": "El santuario de la palma de cera en las montañas de Marulanda es uno de los secretos mejor guardados del Eje Cafetero. A diferencia de los valles turísticos, acá las palmas se levantan solitarias entre potreros y laderas, creando un paisaje que parece salido de una pintura romántica del siglo XIX. Cada palma puede vivir hasta 200 años y alcanzar los 70 metros de altura, lo que la convierte en la palma más alta del mundo. Caminar entre ellas es una experiencia de humildad: te sientes minúsculo al lado de estas ancianas que han visto pasar la historia. La caminata atraviesa zonas de páramo con frailejones, miradores que dominan todo el valle y fincas donde todavía se trabaja la tierra como hace cien años.",
+      "includes": [
+        "Guía local con conocimiento del ecosistema de palma",
+        "Almuerzo campesino completo",
+        "Transporte 4x4 ida y vuelta",
+        "Refrigerio de media jornada",
+        "Seguro de asistencia"
+      ],
+      "itinerary": [
+        "Salida de Marulanda a las 7:00 a.m. en vehículo 4x4",
+        "Ascenso hasta la zona de avistamiento de palmas",
+        "Caminata interpretativa de 3 a 4 horas entre palmas centenarias",
+        "Visita a miradores panorámicos del valle",
+        "Almuerzo en finca tradicional con productos locales",
+        "Recorrido por zona de frailejones y páramo",
+        "Regreso a Marulanda hacia las 5:00 p.m."
+      ],
+      "whatToBring": [
+        "Calzado de trekking con buen agarre",
+        "Protector solar (la altura quema)",
+        "Sombrero o gorra",
+        "Agua (mínimo 2 litros)",
+        "Chaqueta cortaviento",
+        "Bastones de caminata (recomendado)"
+      ],
+      "tips": "La altura puede afectar a algunas personas — tómate el primer día con calma, hidrátate bien y evita el alcohol la noche anterior."
+    },
+    {
+      "title": "De la oveja al telar: siglos de tradición textil",
+      "subtitle": "Esquila, hilado, teñido y tejido artesanal",
+      "duration": "2 días (experiencia completa)",
+      "difficulty": "Fácil",
+      "description": "Marulanda es tierra de lana desde su fundación. Visita fincas ovinas, conoce el proceso completo: esquila artesanal, hilado en rueca, teñido con pigmentos naturales y tejido en telar vertical. Talleres prácticos donde creas tu propia pieza.",
+      "longDescription": "La tradición textil de Marulanda tiene más de dos siglos de historia. En estas montañas frías, la lana fue siempre abrigo y sustento: las familias criaban ovejas, esquilaban a mano, hilaban en rueca y tejían en telares verticales las ruanas, cobijas y ponchos que todavía hoy usan los arrieros. Esta experiencia te sumerge en ese ciclo completo. Empiezas en la finca, conociendo las ovejas y viendo una demostración de esquila artesanal con tijeras — igual que lo hacían los abuelos. Después pasas al taller, donde aprendes a lavar la lana, cardarla, hilarla en rueca y teñirla con plantas y minerales de la región. El segundo día te sientas frente a un telar vertical centenario y tejes tu propia pieza con la guía de una maestra artesana que heredó el oficio de su madre y su abuela.",
+      "includes": [
+        "Guía artesana experta en tradición textil",
+        "Materiales completos (lana, rueca, telar, tintes naturales)",
+        "Almuerzo típico ambos días",
+        "Pieza tejida por ti para llevarte",
+        "Hospedaje en finca tradicional (1 noche)",
+        "Seguro de asistencia"
+      ],
+      "itinerary": [
+        "Día 1, mañana: llegada a la finca y bienvenida con bebida caliente",
+        "Día 1, mañana: visita al corral, demostración de esquila artesanal",
+        "Día 1, tarde: taller de lavado, cardado e hilado en rueca",
+        "Día 1, tarde: taller de teñido con pigmentos naturales (plantas, tierra, corteza)",
+        "Día 1, noche: cena y fogón con historias de arrieros y tejedoras",
+        "Día 2, mañana: desayuno e introducción al telar vertical",
+        "Día 2, mañana y tarde: tejido guiado para crear tu propia pieza",
+        "Día 2, tarde: entrega de piezas y cierre de la experiencia"
+      ],
+      "whatToBring": [
+        "Ropa abrigada (las noches son frías)",
+        "Delantal o ropa que puedas ensuciar",
+        "Cuaderno para anotar las recetas de tintes",
+        "Zapatos cómodos para finca",
+        "Toalla y artículos de aseo personal"
+      ],
+      "tips": "No hace falta experiencia previa en tejido. Las maestras te guían paso a paso con una paciencia infinita. Vas a salir con algo hecho por tus propias manos, sin importar tu nivel."
+    }
+  ],
+  "testimonialsData": [
+    {
+      "quote": "Pensé que las fotos de las palmas de cera eran exageradas. No lo son. Es otro planeta. Y la gente de La Ruta de la Lana te hace sentir en casa desde el minuto cero.",
+      "author": "María Fernanda G.",
+      "location": "Bogotá"
+    },
+    {
+      "quote": "Hice el taller de lana con mi hija adolescente. Las dos salimos sabiendo hilar. ¿Cuándo pasa eso en un viaje?",
+      "author": "Carlos M.",
+      "location": "Medellín"
+    },
+    {
+      "quote": "Soy fotógrafo de naturaleza y Marulanda me dejó sin palabras. Los guías saben exactamente dónde y a qué hora cae la mejor luz.",
+      "author": "James L.",
+      "location": "London, UK"
+    }
+  ],
+  "experiencePage": {
+    "backToExperiencias": "Volver al inicio",
+    "duration": "Duración",
+    "difficulty": "Dificultad",
+    "includes": "¿Qué incluye?",
+    "itinerary": "Itinerario",
+    "whatToBring": "¿Qué llevar?",
+    "tip": "Consejo",
+    "ctaTitle": "¿Listo para vivirla?",
+    "ctaBody": "Escríbenos para reservar tu cupo o pedir más información. No hay compromiso.",
+    "ctaButton": "Quiero vivir esta experiencia",
+    "notFound": "Experiencia no encontrada",
+    "notFoundMsg": "La experiencia que buscas no existe o fue movida. Vuelve al inicio para descubrir nuestras experiencias.",
+    "404back": "Volver al inicio"
+  },
+  "footer": {
+    "description": "Turismo regenerativo en el corazón de Caldas. Conectamos viajeros con la esencia de Marulanda: sus bosques, su lana y su gente.",
+    "contact": "Contacto",
+    "legal": "Legal",
+    "privacy": "Política de Privacidad",
+    "terms": "Términos y Condiciones",
+    "copyright": "Turismo regenerativo en el corazón de Caldas"
+  },
+  "whatsappButton": {
+    "ariaLabel": "Chatear por WhatsApp"
+  },
+  "scrollToTop": {
+    "ariaLabel": "Volver arriba"
+  }
+}

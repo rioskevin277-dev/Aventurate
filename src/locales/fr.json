@@ -1,0 +1,262 @@
+{
+  "nav": {
+    "siteName": "La Ruta de la Lana",
+    "destino": "Destination",
+    "experiencias": "Expériences",
+    "contacto": "Contact",
+    "ariaLabel": "Navigation principale",
+    "menuOpen": "Ouvrir le menu",
+    "menuClose": "Fermer le menu",
+    "languageSelector": "Langue"
+  },
+  "layout": {
+    "skipToContent": "Aller au contenu principal"
+  },
+  "hero": {
+    "siteName": "LA RUTA DE LA LANA",
+    "title": "Découvrez Marulanda : là où la forêt de nuages touche le ciel",
+    "subtitle": "À trois heures de Manizales, au cœur de Caldas, il existe un village où les nuages dorment sur les toits, les palmiers à cire mesurent 60 mètres et la laine est encore filée à la main. Ce n'est pas du tourisme. C'est un retour à la maison.",
+    "cta": "Je veux vivre l'aventure",
+    "whatsapp": "Parle-moi sur WhatsApp",
+    "scrollLabel": "Aller à la section Destination"
+  },
+  "destino": {
+    "tag": "— Marulanda, Caldas —",
+    "title": "Ce n'est pas une destination. C'est un rythme.",
+    "p1": "Dans les montagnes de Caldas, à 3 200 mètres d'altitude, Marulanda défie la frénésie du XXIe siècle. C'est un village où le temps se mesure en écheveaux de laine et la seule horloge qui compte est le soleil qui se cache derrière les palmiers à cire.",
+    "p2": "Ici, pas de feux de circulation, mais un ciel qui change de couleur chaque heure. Les rues pavées montent et descendent entre des maisons en torchis aux avant-toits en bois sculpté. Les anciens s'assoient sur la place à regarder passer l'après-midi, et le bruit ambiant est un mélange de vent, d'oiseaux et de métiers à tisser.",
+    "p3": "Marulanda ne se visite pas : elle se vit. Et depuis La Ruta de la Lana, nous vous invitons à la vivre avec les cinq sens grands ouverts.",
+    "imgAlt": "Marulanda, Caldas"
+  },
+  "experiencias": {
+    "heading": "Des expériences qui restent dans la peau",
+    "subtitle": "Chaque expérience est conçue pour que vous repartiez avec plus que ce que vous aviez apporté.",
+    "cta": "Je veux vivre cette expérience",
+    "verMas": "Voir plus"
+  },
+  "whyUs": {
+    "heading": "Nous ne sommes pas une agence de voyage. Nous sommes des voisins.",
+    "body": "La Ruta de la Lana est née à Marulanda, de gens qui aiment ce territoire. Nous n'opérons pas depuis un bureau à Bogotá : nous vivons ici, nous connaissons chaque sentier, chaque famille de tisserands et chaque lever de soleil dans le páramo. Quand vous voyagez avec nous, vous voyagez avec quelqu'un qui vous ouvre la porte de sa maison.",
+    "cards": [
+      { "title": "Guides locaux certifiés", "description": "Personne ne connaît le terrain comme celui qui le parcourt depuis l'enfance." },
+      { "title": "Groupes restreints", "description": "Maximum 8 personnes. Ce n'est pas un bus touristique." },
+      { "title": "Tourisme régénératif", "description": "Chaque visite laisse une contribution directe à la communauté et à l'écosystème." },
+      { "title": "Itinéraires sur mesure", "description": "Nous adaptons votre expérience selon votre emploi du temps, votre forme physique et votre envie d'explorer." }
+    ]
+  },
+  "testimonials": {
+    "heading": "Ce que disent ceux qui sont déjà venus",
+    "prev": "Témoignage précédent",
+    "next": "Témoignage suivant",
+    "goTo": "Aller au témoignage {{n}}"
+  },
+  "ctaSection": {
+    "tag": "— Votre histoire commence ici —",
+    "title": "Marulanda vous attend",
+    "body": "Chaque voyage avec nous soutient directement les familles paysannes, protège la forêt de nuages et maintient vivante la tradition textile de la région. Ce n'est pas du tourisme ordinaire : c'est un tourisme qui laisse une empreinte.",
+    "cta": "Je veux vivre cette expérience"
+  },
+  "contact": {
+    "backToHome": "Retour à l'accueil",
+    "tag": "— Contactez-nous —",
+    "title": "Prêt à tisser votre propre histoire à Marulanda ?",
+    "subtitle": "Laissez-nous vos coordonnées et nous vous préparons une proposition sur mesure, sans engagement.",
+    "form": {
+      "name": "Nom complet",
+      "namePlaceholder": "Votre nom",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "vous@email.com",
+      "phone": "WhatsApp / Téléphone",
+      "phonePlaceholder": "+57 300 000 0000",
+      "interests": "Quelles expériences vous intéressent ?",
+      "travelDate": "Date de voyage estimée",
+      "groupSize": "Nombre de personnes",
+      "groupSizePlaceholder": "Sélectionnez...",
+      "message": "Message ou demande",
+      "messagePlaceholder": "Dites-nous ce que vous avez en tête, vos questions, vos dates...",
+      "charactersRemaining": "{{count}} caractères",
+      "privacy": "J'accepte la ",
+      "privacyLinkText": "politique de confidentialité",
+      "privacySuffix": " et le traitement de mes données personnelles.",
+      "submit": "Envoyer la demande",
+      "sending": "Envoi en cours...",
+      "success": "Merci de nous avoir écrit !",
+      "successMsg": "Votre demande est arrivée sur notre métier à tisser. Nous vous contactons sous 24 heures par WhatsApp.",
+      "errorTitle": "Une erreur est survenue.",
+      "errorMsg": "Une erreur est survenue lors de l'envoi. Réessayez ou écrivez-nous directement sur WhatsApp.",
+      "validation": {
+        "nameMin": "Le nom doit contenir au moins 3 caractères",
+        "nameMax": "Le nom est trop long",
+        "emailInvalid": "Entrez une adresse e-mail valide",
+        "phoneInvalid": "Entrez un numéro WhatsApp valide",
+        "interestsMin": "Sélectionnez au moins une expérience",
+        "groupSizeRequired": "Sélectionnez le nombre de personnes",
+        "messageMax": "Le message ne peut pas dépasser 1000 caractères",
+        "privacyRequired": "Vous devez accepter la politique de confidentialité"
+      },
+      "interestsOptions": [
+        { "value": "bosques-niebla", "label": "Forêts de Nuages" },
+        { "value": "palma-cera", "label": "Palmier à Cire" },
+        { "value": "ovinocultura", "label": "Élevage Ovin et Laine" },
+        { "value": "paquete-completo", "label": "Forfait Complet" }
+      ],
+      "groupSizeOptions": [
+        { "value": "", "label": "Sélectionnez..." },
+        { "value": "1-2", "label": "1-2 personnes" },
+        { "value": "3-5", "label": "3-5 personnes" },
+        { "value": "6-8", "label": "6-8 personnes" }
+      ]
+    },
+    "sidePanel": {
+      "title": "Vous préférez parler directement ?",
+      "body": "Écrivez-nous sur WhatsApp et nous coordonnons votre aventure sur-le-champ.",
+      "cta": "Ouvrir le chat WhatsApp"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Marchez parmi les nuages",
+      "subtitle": "Forêts de nuages, biodiversité et silence absolu",
+      "duration": "4 à 8 heures (selon le parcours)",
+      "difficulty": "Modéré",
+      "description": "Plongez dans l'un des écosystèmes les plus magiques de la planète. Les forêts de nuages de Marulanda sont des réservoirs de biodiversité : orchidées sauvages, broméliacées géantes, oiseaux endémiques et un silence que seul le vent dans la canopée vient briser. Randonnées guidées pour tous les niveaux, de la marche contemplative au trekking de haute montagne.",
+      "longDescription": "La forêt de nuages de Marulanda est l'un des écosystèmes les plus fascinants et les plus fragiles de la cordillère Centrale colombienne. À plus de 2 800 mètres d'altitude, la brume enveloppe chaque arbre et chaque sentier, créant un paysage de conte de fées où la lumière filtre à travers des mousses centenaires. On y trouve des espèces d'oiseaux qui n'existent nulle part ailleurs sur Terre, des orchidées miniatures qui poussent sur des troncs couverts de lichen, et un calme si profond qu'il vous déconnecte complètement du bruit du monde. Cette expérience est guidée par des connaisseurs locaux qui ont grandi dans ces montagnes et savent lire chaque son, chaque trace et chaque changement de vent.",
+      "includes": [
+        "Guide local expert en biodiversité",
+        "Collation paysanne (arepa, fromage, panela)",
+        "Transport aller-retour depuis et vers Marulanda",
+        "Assistance"
+      ],
+      "itinerary": [
+        "Départ du village de Marulanda à 8h00",
+        "Trajet en 4x4 jusqu'au point de départ du sentier",
+        "Randonnée guidée de 2 à 4 heures dans la forêt de nuages",
+        "Observation des oiseaux et reconnaissance de la flore locale",
+        "Déjeuner paysan dans une ferme traditionnelle",
+        "Retour à Marulanda au coucher du soleil"
+      ],
+      "whatToBring": [
+        "Bottes en caoutchouc ou chaussures imperméables",
+        "Imperméable ou poncho pour la pluie",
+        "Eau (minimum 1,5 litre)",
+        "Anti-moustique biodégradable",
+        "Jumelles (optionnelles, pour l'observation des oiseaux)",
+        "Appareil photo"
+      ],
+      "tips": "Les meilleurs mois pour visiter la forêt de nuages sont décembre à mars et juillet à août, quand les pluies s'espacent et que la visibilité est meilleure."
+    },
+    {
+      "title": "Tenez-vous devant le plus grand palmier du monde",
+      "subtitle": "Sanctuaire naturel du palmier à cire du Quindío",
+      "duration": "6 à 10 heures (journée complète)",
+      "difficulty": "Exigeant",
+      "description": "Le palmier à cire du Quindío — arbre national de la Colombie — trouve à Marulanda l'un de ses sanctuaires les plus imposants. Parcourez des vallées entières où ces géants s'élèvent à plus de 60 mètres, escortés de frailejones et d'un horizon à couper le souffle.",
+      "longDescription": "Le sanctuaire du palmier à cire dans les montagnes de Marulanda est l'un des secrets les mieux gardés de l'Eje Cafetero. Contrairement aux vallées touristiques, ici les palmiers se dressent solitaires entre pâturages et versants, créant un paysage qui semble sorti d'une peinture romantique du XIXe siècle. Chaque palmier peut vivre jusqu'à 200 ans et atteindre 70 mètres de hauteur, ce qui en fait le plus grand palmier du monde. Marcher parmi eux est une expérience d'humilité : on se sent minuscule à côté de ces anciennes qui ont vu passer l'histoire. La randonnée traverse des zones de páramo avec des frailejones, des belvédères qui dominent toute la vallée et des fermes où la terre est encore travaillée comme il y a cent ans.",
+      "includes": [
+        "Guide local connaissant l'écosystème du palmier",
+        "Déjeuner paysan complet",
+        "Transport 4x4 aller-retour",
+        "Collation de mi-journée",
+        "Assistance"
+      ],
+      "itinerary": [
+        "Départ de Marulanda à 7h00 en véhicule 4x4",
+        "Montée jusqu'à la zone d'observation des palmiers",
+        "Randonnée interprétative de 3 à 4 heures parmi les palmiers centenaires",
+        "Visite des belvédères panoramiques de la vallée",
+        "Déjeuner dans une ferme traditionnelle avec produits locaux",
+        "Traversée de la zone de frailejones et du páramo",
+        "Retour à Marulanda vers 17h00"
+      ],
+      "whatToBring": [
+        "Chaussures de trekking avec bonne adhérence",
+        "Crème solaire (l'altitude brûle)",
+        "Chapeau ou casquette",
+        "Eau (minimum 2 litres)",
+        "Veste coupe-vent",
+        "Bâtons de marche (recommandé)"
+      ],
+      "tips": "L'altitude peut affecter certaines personnes — prenez le premier jour calmement, hydratez-vous bien et évitez l'alcool la veille."
+    },
+    {
+      "title": "Du mouton au métier à tisser : des siècles de tradition textile",
+      "subtitle": "Tonte, filage, teinture et tissage artisanal",
+      "duration": "2 jours (expérience complète)",
+      "difficulty": "Facile",
+      "description": "Marulanda est une terre de laine depuis sa fondation. Visitez des fermes ovines, découvrez le processus complet : tonte artisanale, filage au rouet, teinture avec des pigments naturels et tissage sur métier vertical. Des ateliers pratiques où vous créez votre propre pièce.",
+      "longDescription": "La tradition textile de Marulanda a plus de deux siècles d'histoire. Dans ces montagnes froides, la laine a toujours été chaleur et subsistance : les familles élevaient des moutons, les tondaient à la main, filaient au rouet et tissaient sur des métiers verticaux les ruanas, couvertures et ponchos que les arrieros portent encore aujourd'hui. Cette expérience vous plonge dans ce cycle complet. Vous commencez à la ferme, en rencontrant les moutons et en assistant à une démonstration de tonte artisanale aux ciseaux — exactement comme le faisaient les grands-parents. Ensuite, vous passez à l'atelier où vous apprenez à laver la laine, la carder, la filer au rouet et la teindre avec des plantes et des minéraux de la région. Le deuxième jour, vous vous asseyez devant un métier à tisser vertical centenaire et tissez votre propre pièce sous la guidance d'une maître artisane qui a hérité du métier de sa mère et de sa grand-mère.",
+      "includes": [
+        "Guide artisane experte en tradition textile",
+        "Matériel complet (laine, rouet, métier à tisser, teintures naturelles)",
+        "Déjeuner typique les deux jours",
+        "Pièce tissée par vous à emporter",
+        "Hébergement dans une ferme traditionnelle (1 nuit)",
+        "Assistance"
+      ],
+      "itinerary": [
+        "Jour 1, matin : arrivée à la ferme et accueil avec boisson chaude",
+        "Jour 1, matin : visite de la bergerie, démonstration de tonte artisanale",
+        "Jour 1, après-midi : atelier de lavage, cardage et filage au rouet",
+        "Jour 1, après-midi : atelier de teinture avec pigments naturels (plantes, terre, écorce)",
+        "Jour 1, soir : dîner et veillée avec histoires d'arrieros et de tisseuses",
+        "Jour 2, matin : petit-déjeuner et introduction au métier à tisser vertical",
+        "Jour 2, matin et après-midi : tissage guidé pour créer votre propre pièce",
+        "Jour 2, après-midi : remise des pièces et clôture de l'expérience"
+      ],
+      "whatToBring": [
+        "Vêtements chauds (les nuits sont froides)",
+        "Tablier ou vêtements que vous pouvez salir",
+        "Carnet pour noter les recettes de teinture",
+        "Chaussures confortables pour la ferme",
+        "Serviette et articles de toilette"
+      ],
+      "tips": "Aucune expérience préalable en tissage n'est nécessaire. Les maîtresses artisanes vous guident pas à pas avec une patience infinie. Vous repartirez avec quelque chose fait de vos propres mains, quel que soit votre niveau."
+    }
+  ],
+  "testimonialsData": [
+    {
+      "quote": "Je pensais que les photos des palmiers à cire étaient exagérées. Pas du tout. C'est une autre planète. Et les gens de La Ruta de la Lana vous font sentir chez vous dès la première minute.",
+      "author": "María Fernanda G.",
+      "location": "Bogotá"
+    },
+    {
+      "quote": "J'ai fait l'atelier de laine avec ma fille adolescente. Nous sommes toutes les deux reparties en sachant filer. Quand est-ce que ça arrive dans un voyage ?",
+      "author": "Carlos M.",
+      "location": "Medellín"
+    },
+    {
+      "quote": "Je suis photographe nature et Marulanda m'a laissé sans mots. Les guides savent exactement où et quand tombe la meilleure lumière.",
+      "author": "James L.",
+      "location": "London, UK"
+    }
+  ],
+  "experiencePage": {
+    "backToExperiencias": "Retour à l'accueil",
+    "duration": "Durée",
+    "difficulty": "Difficulté",
+    "includes": "Qu'est-ce qui est inclus ?",
+    "itinerary": "Itinéraire",
+    "whatToBring": "Que faut-il apporter ?",
+    "tip": "Conseil",
+    "ctaTitle": "Prêt à la vivre ?",
+    "ctaBody": "Écrivez-nous pour réserver votre place ou demander plus d'informations. Aucun engagement.",
+    "ctaButton": "Je veux vivre cette expérience",
+    "notFound": "Expérience non trouvée",
+    "notFoundMsg": "L'expérience que vous cherchez n'existe pas ou a été déplacée. Revenez à l'accueil pour découvrir nos expériences.",
+    "404back": "Retour à l'accueil"
+  },
+  "footer": {
+    "description": "Tourisme régénératif au cœur de Caldas. Nous connectons les voyageurs à l'essence de Marulanda : ses forêts, sa laine et ses habitants.",
+    "contact": "Contact",
+    "legal": "Mentions légales",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Conditions Générales",
+    "copyright": "Tourisme régénératif au cœur de Caldas"
+  },
+  "whatsappButton": {
+    "ariaLabel": "Discuter sur WhatsApp"
+  },
+  "scrollToTop": {
+    "ariaLabel": "Retour en haut"
+  }
+}

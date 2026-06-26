@@ -1,0 +1,47 @@
+schema: spec-driven
+
+context: |
+  Project: Aventurate — landing page for "La Ruta de la Lana", tourism agency in Marulanda, Caldas (Colombia).
+  Stack: React + Tailwind CSS (Vite tooling expected).
+  Architecture: Single-page landing, component-based (Container/Presentational).
+  Testing: No test runner detected. Strict TDD disabled.
+  Style: Responsive, mobile-first, warm/tourism-themed palette.
+
+strict_tdd: false
+
+rules:
+  proposal:
+    - Include scope boundaries and risk assessment for each change.
+  specs:
+    - Use RFC 2119 keywords (MUST, SHALL, SHOULD, MAY).
+    - Write scenarios as Given/When/Then.
+  design:
+    - Document component hierarchy and data flow.
+    - Include architecture decisions with rationale.
+  tasks:
+    - Group by phase, use hierarchical numbering.
+    - Each task completable in one session.
+  apply:
+    - Use Container/Presentational pattern for components.
+    - Tailwind utility classes preferred over custom CSS.
+    tdd: false
+  verify:
+    - Manual visual verification required (landing page).
+    - Check responsiveness at mobile (375px), tablet (768px), and desktop (1280px).
+  archive:
+    - Warn before merging destructive deltas.
+
+testing:
+  runner: none
+  unit: false
+  integration: false
+  e2e: false
+  coverage: false
+  linter: false
+  type_checker: false
+  formatter: false
+  explanation: >
+    Node.js v24.14.1, npm 11.11.0, and pnpm 11.6.0 are available but no test
+    framework (Jest, Vitest, Playwright, Cypress) is installed globally or
+    locally. Strict TDD is disabled. Testing tooling can be added as a change
+    task when needed.

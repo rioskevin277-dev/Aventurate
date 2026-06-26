@@ -1,0 +1,262 @@
+{
+  "nav": {
+    "siteName": "La Ruta de la Lana",
+    "destino": "Destination",
+    "experiencias": "Experiences",
+    "contacto": "Contact",
+    "ariaLabel": "Main navigation",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "languageSelector": "Language"
+  },
+  "layout": {
+    "skipToContent": "Skip to main content"
+  },
+  "hero": {
+    "siteName": "LA RUTA DE LA LANA",
+    "title": "Discover Marulanda: where the cloud forest touches the sky",
+    "subtitle": "Three hours from Manizales, in the heart of Caldas, there is a town where clouds sleep on the rooftops, wax palms reach 60 meters, and wool is still spun by hand. This is not tourism. This is coming home.",
+    "cta": "I want to live the adventure",
+    "whatsapp": "Message me on WhatsApp",
+    "scrollLabel": "Go to Destination section"
+  },
+  "destino": {
+    "tag": "— Marulanda, Caldas —",
+    "title": "It's not a destination. It's a rhythm.",
+    "p1": "In the mountains of Caldas, at 3,200 meters above sea level, Marulanda defies the rush of the 21st century. It's a town where time is measured in skeins of wool and the only clock that matters is the sun hiding behind the wax palms.",
+    "p2": "There are no traffic lights here, but there is a sky that changes color every hour. Cobblestone streets rise and fall between wattle-and-daub houses with carved wooden eaves. The elderly sit in the square watching the afternoon go by, and the ambient sound is a mix of wind, birds, and looms.",
+    "p3": "Marulanda is not visited: it is lived. And from La Ruta de la Lana, we invite you to live it with all five senses wide open.",
+    "imgAlt": "Marulanda, Caldas"
+  },
+  "experiencias": {
+    "heading": "Experiences that stay with you",
+    "subtitle": "Each experience is designed so you leave with more than you came with.",
+    "cta": "I want to live this experience",
+    "verMas": "See more"
+  },
+  "whyUs": {
+    "heading": "We're not a travel agency. We're neighbors.",
+    "body": "La Ruta de la Lana was born in Marulanda, by people who love this land. We don't operate from an office in Bogotá: we live here, we know every trail, every weaving family, and every sunrise in the páramo. When you travel with us, you travel with someone who opens their home to you.",
+    "cards": [
+      { "title": "Certified local guides", "description": "Nobody knows the terrain like someone who has walked it since childhood." },
+      { "title": "Small groups", "description": "Maximum 8 people. This is not a tour bus." },
+      { "title": "Regenerative tourism", "description": "Every visit leaves a direct contribution to the community and the ecosystem." },
+      { "title": "Custom itineraries", "description": "We tailor your experience to your schedule, fitness level, and desire to explore." }
+    ]
+  },
+  "testimonials": {
+    "heading": "What others are saying",
+    "prev": "Previous testimonial",
+    "next": "Next testimonial",
+    "goTo": "Go to testimonial {{n}}"
+  },
+  "ctaSection": {
+    "tag": "— Your story starts here —",
+    "title": "Marulanda is waiting for you",
+    "body": "Every trip with us directly supports farming families, protects the cloud forest, and keeps the region's textile tradition alive. This is not just any tourism: it's tourism that leaves a mark.",
+    "cta": "I want to live this experience"
+  },
+  "contact": {
+    "backToHome": "Back to home",
+    "tag": "— Contact us —",
+    "title": "Ready to weave your own story in Marulanda?",
+    "subtitle": "Leave us your details and we'll put together a custom proposal with no obligation.",
+    "form": {
+      "name": "Full name",
+      "namePlaceholder": "Your name",
+      "email": "Email address",
+      "emailPlaceholder": "you@email.com",
+      "phone": "WhatsApp / Phone",
+      "phonePlaceholder": "+57 300 000 0000",
+      "interests": "What experiences interest you?",
+      "travelDate": "Estimated travel date",
+      "groupSize": "Number of people",
+      "groupSizePlaceholder": "Select...",
+      "message": "Message or inquiry",
+      "messagePlaceholder": "Tell us what you have in mind, questions, dates...",
+      "charactersRemaining": "{{count}} characters",
+      "privacy": "I accept the ",
+      "privacyLinkText": "privacy policy",
+      "privacySuffix": " and the processing of my personal data.",
+      "submit": "Send inquiry",
+      "sending": "Sending...",
+      "success": "Thank you for writing to us!",
+      "successMsg": "Your inquiry has reached our loom. We'll contact you within 24 hours via WhatsApp.",
+      "errorTitle": "Something went wrong.",
+      "errorMsg": "Something went wrong sending your message. Try again or write to us directly on WhatsApp.",
+      "validation": {
+        "nameMin": "Name must be at least 3 characters",
+        "nameMax": "Name is too long",
+        "emailInvalid": "Enter a valid email address",
+        "phoneInvalid": "Enter a valid WhatsApp number",
+        "interestsMin": "Select at least one experience",
+        "groupSizeRequired": "Select the number of people",
+        "messageMax": "Message cannot exceed 1000 characters",
+        "privacyRequired": "You must accept the privacy policy"
+      },
+      "interestsOptions": [
+        { "value": "bosques-niebla", "label": "Cloud Forests" },
+        { "value": "palma-cera", "label": "Wax Palm Sanctuary" },
+        { "value": "ovinocultura", "label": "Sheep Farming & Wool" },
+        { "value": "paquete-completo", "label": "Full Package" }
+      ],
+      "groupSizeOptions": [
+        { "value": "", "label": "Select..." },
+        { "value": "1-2", "label": "1-2 people" },
+        { "value": "3-5", "label": "3-5 people" },
+        { "value": "6-8", "label": "6-8 people" }
+      ]
+    },
+    "sidePanel": {
+      "title": "Prefer to talk directly?",
+      "body": "Write to us on WhatsApp and we'll coordinate your adventure on the spot.",
+      "cta": "Open WhatsApp chat"
+    }
+  },
+  "experiences": [
+    {
+      "title": "Walk Among the Clouds",
+      "subtitle": "Cloud forests, biodiversity, and absolute silence",
+      "duration": "4 to 8 hours (depending on route)",
+      "difficulty": "Moderate",
+      "description": "Step into one of the most magical ecosystems on the planet. Marulanda's cloud forests are reservoirs of biodiversity: wild orchids, giant bromeliads, endemic birds, and a silence broken only by the wind in the canopy. Guided hikes for all levels, from contemplative nature walks to high-mountain trekking.",
+      "longDescription": "Marulanda's cloud forest is one of the most fascinating and fragile ecosystems in Colombia's Central mountain range. At over 2,800 meters above sea level, mist wraps around every tree and trail, creating a fairy-tale landscape where light filters through centuries-old mosses. Here live bird species found nowhere else on Earth, miniature orchids sprouting from lichen-covered trunks, and a calm so deep that it disconnects you from the world's noise entirely. This experience is led by local experts who grew up in these mountains and can read every sound, every track, and every shift in the wind.",
+      "includes": [
+        "Local biodiversity expert guide",
+        "Farmstead snack (arepa, cheese, panela)",
+        "Round-trip transport from and to Marulanda",
+        "Assistance insurance"
+      ],
+      "itinerary": [
+        "Departure from Marulanda town at 8:00 a.m.",
+        "4x4 ride to the trailhead",
+        "Guided 2-4 hour hike through the cloud forest",
+        "Birdwatching and native flora identification",
+        "Farmstead lunch at a traditional farm",
+        "Return to Marulanda at sunset"
+      ],
+      "whatToBring": [
+        "Rubber boots or waterproof footwear",
+        "Raincoat or poncho",
+        "Water (at least 1.5 liters)",
+        "Biodegradable insect repellent",
+        "Binoculars (optional, for birdwatching)",
+        "Camera"
+      ],
+      "tips": "The best months to visit the cloud forest are December through March and July through August, when rains ease up and visibility is at its best."
+    },
+    {
+      "title": "Stand Before the Tallest Palm in the World",
+      "subtitle": "Natural sanctuary of the Quindío wax palm",
+      "duration": "6 to 10 hours (full day)",
+      "difficulty": "Challenging",
+      "description": "The Quindío wax palm — Colombia's national tree — finds one of its most impressive sanctuaries in Marulanda. Walk through entire valleys where these giants rise over 60 meters, flanked by frailejones and a horizon that takes your breath away.",
+      "longDescription": "The wax palm sanctuary in the mountains of Marulanda is one of the best-kept secrets of Colombia's Coffee Region. Unlike the tourist valleys, here the palms rise solitary among pastures and hillsides, creating a landscape that looks like a 19th-century romantic painting. Each palm can live up to 200 years and reach 70 meters in height, making it the tallest palm in the world. Walking among them is a humbling experience: you feel tiny beside these ancient ones that have seen history pass by. The hike crosses páramo zones with frailejones, viewpoints overlooking the entire valley, and farms where the land is still worked as it was a hundred years ago.",
+      "includes": [
+        "Local guide with palm ecosystem expertise",
+        "Full farmstead lunch",
+        "Round-trip 4x4 transport",
+        "Midday snack",
+        "Assistance insurance"
+      ],
+      "itinerary": [
+        "Departure from Marulanda at 7:00 a.m. in a 4x4 vehicle",
+        "Ascent to the palm viewing area",
+        "3-4 hour interpretive hike among century-old palms",
+        "Visit to panoramic valley viewpoints",
+        "Lunch at a traditional farm with local products",
+        "Walk through frailejón and páramo zones",
+        "Return to Marulanda around 5:00 p.m."
+      ],
+      "whatToBring": [
+        "Trekking shoes with good grip",
+        "Sunscreen (the altitude burns)",
+        "Hat or cap",
+        "Water (at least 2 liters)",
+        "Windbreaker jacket",
+        "Trekking poles (recommended)"
+      ],
+      "tips": "Altitude can affect some people — take the first day easy, stay well hydrated, and avoid alcohol the night before."
+    },
+    {
+      "title": "From Sheep to Loom: Centuries of Textile Tradition",
+      "subtitle": "Shearing, spinning, dyeing, and hand weaving",
+      "duration": "2 days (full experience)",
+      "difficulty": "Easy",
+      "description": "Marulanda has been wool country since its founding. Visit sheep farms and learn the complete process: artisanal shearing, spinning on a drop spindle, dyeing with natural pigments, and weaving on a vertical loom. Hands-on workshops where you create your own piece.",
+      "longDescription": "Marulanda's textile tradition spans more than two centuries. In these cold mountains, wool has always been warmth and sustenance: families raised sheep, sheared by hand, spun on drop spindles, and wove on vertical looms the ruanas, blankets, and ponchos still worn by muleteers today. This experience immerses you in that complete cycle. You start at the farm, meeting the sheep and watching a demonstration of artisanal shearing with scissors — just as the grandparents did. Then you move to the workshop, where you learn to wash the wool, card it, spin it on a drop spindle, and dye it with plants and minerals from the region. On the second day, you sit at a centuries-old vertical loom and weave your own piece under the guidance of a master artisan who inherited the craft from her mother and grandmother.",
+      "includes": [
+        "Expert artisan guide in textile tradition",
+        "Complete materials (wool, spindle, loom, natural dyes)",
+        "Traditional lunch both days",
+        "Your own hand-woven piece to take home",
+        "Accommodation at a traditional farm (1 night)",
+        "Assistance insurance"
+      ],
+      "itinerary": [
+        "Day 1, morning: arrival at the farm with a warm welcome drink",
+        "Day 1, morning: visit to the sheepfold, artisanal shearing demonstration",
+        "Day 1, afternoon: workshop on washing, carding, and drop spindle spinning",
+        "Day 1, afternoon: natural dyeing workshop (plants, soil, bark)",
+        "Day 1, evening: dinner and bonfire with stories from muleteers and weavers",
+        "Day 2, morning: breakfast and introduction to the vertical loom",
+        "Day 2, morning and afternoon: guided weaving to create your own piece",
+        "Day 2, afternoon: piece delivery and experience wrap-up"
+      ],
+      "whatToBring": [
+        "Warm clothing (nights are cold)",
+        "Apron or clothes you can get dirty",
+        "Notebook to write down dye recipes",
+        "Comfortable shoes for the farm",
+        "Towel and personal toiletries"
+      ],
+      "tips": "No prior weaving experience needed. The master artisans guide you step by step with infinite patience. You'll leave with something made by your own hands, regardless of your skill level."
+    }
+  ],
+  "testimonialsData": [
+    {
+      "quote": "I thought the photos of the wax palms were exaggerated. They're not. It's another planet. And the people at La Ruta de la Lana make you feel at home from minute one.",
+      "author": "María Fernanda G.",
+      "location": "Bogotá"
+    },
+    {
+      "quote": "I did the wool workshop with my teenage daughter. We both left knowing how to spin. When does that ever happen on a trip?",
+      "author": "Carlos M.",
+      "location": "Medellín"
+    },
+    {
+      "quote": "I'm a nature photographer and Marulanda left me speechless. The guides know exactly where and when the best light falls.",
+      "author": "James L.",
+      "location": "London, UK"
+    }
+  ],
+  "experiencePage": {
+    "backToExperiencias": "Back to home",
+    "duration": "Duration",
+    "difficulty": "Difficulty",
+    "includes": "What's included?",
+    "itinerary": "Itinerary",
+    "whatToBring": "What to bring",
+    "tip": "Tip",
+    "ctaTitle": "Ready to experience it?",
+    "ctaBody": "Write to us to book your spot or ask for more information. No obligation.",
+    "ctaButton": "I want to live this experience",
+    "notFound": "Experience not found",
+    "notFoundMsg": "The experience you're looking for doesn't exist or has been moved. Go back to the home page to discover our experiences.",
+    "404back": "Back to home"
+  },
+  "footer": {
+    "description": "Regenerative tourism in the heart of Caldas. We connect travelers with the essence of Marulanda: its forests, its wool, and its people.",
+    "contact": "Contact",
+    "legal": "Legal",
+    "privacy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "copyright": "Regenerative tourism in the heart of Caldas"
+  },
+  "whatsappButton": {
+    "ariaLabel": "Chat on WhatsApp"
+  },
+  "scrollToTop": {
+    "ariaLabel": "Back to top"
+  }
+}
